@@ -6,7 +6,6 @@
 //     })
 // })
 
-
 // Fetch forecast
 
 const weatherForm = document.querySelector('form')

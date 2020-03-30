@@ -46,3 +46,13 @@ button{
     padding: 8px;
 }
 
+#message-1{
+     color: darkblue;
+     font-weight: bold;
+}
+
+#message-2{
+    color: chocolate;
+    font-weight: bolder;
+}
+
