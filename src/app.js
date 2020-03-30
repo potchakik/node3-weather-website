@@ -107,5 +107,5 @@ app.get('*', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log('Server is up on POrt 1000' + port);
+    console.log('Server is up on POrt  ' + port);
 });
